@@ -1,2 +1,2 @@
 # OldCollegeStuff
-Old projects from college, bad code expected
+Random old projects from college, probably some won't run, bad code expected
