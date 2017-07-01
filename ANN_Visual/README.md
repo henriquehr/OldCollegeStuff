@@ -1,0 +1,1 @@
+I think this was supposed to be a project for a software to build ANNs using graphical elements, got canceled

@@ -1,0 +1,1 @@
+stack sorting, sequential, parallel, openMP and CUDA
